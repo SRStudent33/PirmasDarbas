@@ -1,0 +1,6 @@
+print("Ivesti du skaičius:")
+print("Pirmas skaičius:")
+a = int(input())
+print("Antras skaičius:")
+b = int(input())
+print("Suma:", a + b)
