@@ -25,3 +25,5 @@ a = int(input())
 print("Antras skaičius:")
 b = int(input())
 print("Dalyba:", a / b)
+
+print('Hello, world!')
